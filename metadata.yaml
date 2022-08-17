@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8302'
     url: http://www.gutenberg.org/2009/agents/8302
     wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: archival
+  image_path: 68533-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, George O. (George Oliver)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8137
     wikipedia: https://en.wikipedia.org/wiki/George_O._Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68533#Home-is-the-Spaceman
 gutenberg_issued: '2022-07-15'
 identifiers:
   gutenberg: '68533'
